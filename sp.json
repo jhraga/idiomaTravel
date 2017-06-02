@@ -3,6 +3,7 @@
 02 Bienvenida
 */
 {
+    "01indiferente" : "Indiferente",
     "02contactos" : "Contactos",
     "02contactosTip" : "Contactos",
     "02politicaPrivacidad" : "Política de privacidad",
@@ -10,7 +11,6 @@
     "02terminosCondiciones" : "Términos y condiciones",
     "02informacionLegal" : "Información legal",
     "02publicidad" : "Publicidad",
-    "02indiferente" : "Indiferente",
     "02laComunidad" : "La comunidad",
     "02tuCuenta" : "Tu Cuenta",
     "02premios" : "Premios",
