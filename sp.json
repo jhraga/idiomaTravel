@@ -5,7 +5,6 @@
 {
     "01indiferente" : "Indiferente",
     "02contactos" : "Contactos",
-    "02contactosTip" : "Contactos",
     "02politicaPrivacidad" : "Política de privacidad",
     "02politicasCookies" : "Políticas de cookies",
     "02terminosCondiciones" : "Términos y condiciones",
@@ -16,8 +15,8 @@
     "02premios" : "Premios",
     "02aDondeQuieresViajar" : "¿A dónde quieres viajar?",
     "02pais": "País",
-    "02poblacion" : "Población",
-    "02precioMax" : "Precio máx.",
+    "02poblacion" : "Poblado",
+    "02precioMax" : "Precio hasta",
     "02moneda" : "Moneda",
     "02fechaDesde" : "Fecha desde",
     "02buscarOfertas" : "Buscar ofertas",
