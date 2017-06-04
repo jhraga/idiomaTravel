@@ -1,14 +1,36 @@
 /*
 01 Genérico
 02 Bienvenida
+03 Viajes
 */
 {
     "01indiferente" : "Indiferente",
+    "01filtrosPopulares" : "Filtros populares",
+    "01otrosFiltros" : "Otros filtros",
     "01pais": "País",
     "01poblacion" : "Ciudad/ Pueblo",
+    "01provinciaEstado" : "Provincia/ Estado",
     "01precioMax" : "Monto hasta",
     "01moneda" : "Moneda",
     "01fechaDesde" : "Fecha desde",
+    "01fechaHasta" : "Fecha hasta",
+    "01duraciondesde" : "Duración desde",
+    "01duracionhasta" : "Duración hasta",
+    "01tipoViaje" : "Tipo de viaje",
+    "01actividad" : "Actividad",
+    "01idioma" : "Idioma",
+    "01favoritos" : "Favoritos",
+    "01conFotos" : "Con fotos",
+    "01conOpiniones" : "Con opiniones",
+    "01conNinos" : "Con niños",
+    "01conBebes" : "Con bebés",
+    "01días" : "días",
+    "01kms" : "kms",
+    "01adutos" : "adultos",
+    "01ninos" : "niños",
+    "01bebes" : "bebés",
+    "01valoracionMedia" : "Valoración media",
+    "01opiniones" : "opiniones",
     "02TravelNetworkingTip" : "Tu próximo viaje comienza aquí...",
     "02contactos" : "Contactos",
     "02politicaPrivacidad" : "Política de privacidad",
@@ -16,7 +38,7 @@
     "02terminosCondiciones" : "Términos y condiciones",
     "02informacionLegal" : "Información legal",
     "02publicidad" : "Publicidad",
-    "02copyright" : "Copyright2017|Todos los derechos reservados",
+    "02copyright" : "Copyright2017 | Todos los derechos reservados",
     "02laComunidad" : "La Comunidad",
     "02viajes" : "Viajes",
     "02concursos" : "Concursos",
@@ -35,5 +57,9 @@
     "02eresProfesional" : "¿Eres profesional del turismo?",
     "02publicaConNosotros" : "Publica con nosotros <b>gratis</b> tus ofertas de viajes",
     "02ganaVisibilidad" : "Gana <b>visibilidad</b> compartiendo tus conocimientos con la Comunidad",
-    "02masInfo" : "+Info"
+    "02masInfo" : "+Info",
+    "03deConcurso" : "De concurso",
+    "03de" : "de",
+    "03viajes" : "viajes",
+    "03lugar" : "Lugar"
 }
