@@ -1,11 +1,11 @@
-/*
+ /*
 01 Genérico
 02 Bienvenida
 */
 {
     "01indiferente" : "Indiferente",
     "01pais": "País",
-    "01poblacion" : "Ciudad/Pueblo",
+    "01poblacion" : "Ciudad/ Pueblo",
     "01precioMax" : "Precio hasta",
     "01moneda" : "Moneda",
     "01fechaDesde" : "Fecha desde",
