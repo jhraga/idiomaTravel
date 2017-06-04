@@ -1,4 +1,4 @@
- /*
+/*
 01 Genérico
 02 Bienvenida
 */
@@ -15,8 +15,18 @@
     "02terminosCondiciones" : "Términos y condiciones",
     "02informacionLegal" : "Información legal",
     "02publicidad" : "Publicidad",
-    "02laComunidad" : "La Comunidad"
+    "02laComunidad" : "La Comunidad",
+    "02viajes" : "Viajes",
+    "02concursos" : "Concursos",
+    "02lugares" : "Lugares",
+    "02temasGenerales" : "Temas generales",
     "02tuCuenta" : "Tu cuenta",
+    "02iniciarSesion" : "Iniciar sesión",  
+    "02tuPerfil" : "Tu perfil",
+    "02tusFotosDesdeMovil" : "Tus fotos desde móvil",
+    "02tusViajes" : "Tus viajes",
+    "02tusOfertas" : "Tus ofertas",
+    "02tuEmpresa" : "Tu empresa",
     "02premios" : "Premios",
     "02aDondeQuieresViajar" : "¿A dónde quieres viajar?",
     "02buscarOfertas" : "Buscar ofertas",
