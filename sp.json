@@ -4,6 +4,11 @@
 */
 {
     "01indiferente" : "Indiferente",
+    "01pais": "País",
+    "01poblacion" : "Ciudad/Pueblo",
+    "01precioMax" : "Precio hasta",
+    "01moneda" : "Moneda",
+    "01fechaDesde" : "Fecha desde",
     "02contactos" : "Contactos",
     "02politicaPrivacidad" : "Política de privacidad",
     "02politicasCookies" : "Políticas de cookies",
@@ -14,11 +19,6 @@
     "02tuCuenta" : "Tu cuenta",
     "02premios" : "Premios",
     "02aDondeQuieresViajar" : "¿A dónde quieres viajar?",
-    "02pais": "País",
-    "02poblacion" : "Poblado",
-    "02precioMax" : "Precio hasta",
-    "02moneda" : "Moneda",
-    "02fechaDesde" : "Fecha desde",
     "02buscarOfertas" : "Buscar ofertas",
     "02eresProfesional" : "¿Eres profesional del turismo?",
     "02publicaConNosotros" : "Publica con nosotros <b>gratis</b> tus ofertas de viajes",
