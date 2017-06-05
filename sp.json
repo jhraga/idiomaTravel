@@ -1,11 +1,11 @@
 /*
-	010 Genérico
+010 Genérico
 011 Etiquetas
-	020 Home
+020 Home
 021 Marco principal
-	030 Viajes
+030 Viajes
 031 Viajes listado
-	*/
+*/
 	{
 	"011indiferente" : "Indiferente",
 	"011filtrosPopulares" : "Filtros populares",
