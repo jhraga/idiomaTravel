@@ -1,3 +1,4 @@
+
 {
         "011indiferente" : "Безразлично",
 	"011filtrosPopulares" : "Популярные фильтры",
@@ -26,6 +27,7 @@
         "011bebes" : "грудных",
         "011valoracionMedia" : "Средняя оценка",
         "011opiniones" : "отзывов",
+	"011publicidad" : "Реклама",
         "021TravelNetworkingTip" : "Ваше следующее путешествие начинается здесь...",
 	"021contactos" : "Kонтакты",
 	"021politicaPrivacidad" : "Политика конфиденциальности",
