@@ -34,7 +34,9 @@
 	"011bebes" : "bebés",
 	"011valoracionMedia" : "Valoración media",
 	"011opiniones" : "opiniones",
-	"011publicidad" : "Publicidad",	
+	"011publicidad" : "Publicidad",
+	"011fechasViaje" : "Fechas viaje",
+	"011duracionEnDias" : "Duración en días",
 	"021TravelNetworkingTip" : "Tu próximo viaje comienza aquí...",
 	"021contactos" : "Contactos",
 	"021politicaPrivacidad" : "Política de privacidad",
@@ -65,5 +67,6 @@
 	"031deConcurso" : "De concurso",
 	"031de" : "de",
 	"031viajes" : "viajes",
-	"031lugar" : "Lugar"
+	"031lugar" : "Lugar",
+	"031costeViaje" : "Coste del viaje",
 	}
