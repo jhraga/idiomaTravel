@@ -28,6 +28,8 @@
         "011valoracionMedia" : "Средняя оценка",
         "011opiniones" : "отзывов",
 	"011publicidad" : "Реклама",
+	"011fechasViaje" : "Даты поездки",
+	"011duracionEnDias" : "Длительность в днях",
         "021TravelNetworkingTip" : "Ваше следующее путешествие начинается здесь...",
 	"021contactos" : "Kонтакты",
 	"021politicaPrivacidad" : "Политика конфиденциальности",
@@ -58,5 +60,6 @@
 	"031deConcurso" : "De concurso",
         "031de" : "из",
         "031viajes" : "путешествий",
-        "031lugar" : "Место"
+        "031lugar" : "Место",
+	"031costeViaje" : "Затраты в поездке"
 }
