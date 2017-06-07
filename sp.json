@@ -1,10 +1,15 @@
 /*
 010 Genérico
 011 Etiquetas
+012 Mensajes de validación
+013 Botones
 020 Home
 021 Marco principal
 030 Viajes
 031 Viajes listado
+032 Viajes detalle
+033 Viajes detalle opiniones 
+034 Viajes itinerario
 */
 	{
 	"011indiferente" : "Indiferente",
@@ -15,8 +20,7 @@
 	"011provinciaEstado" : "Provincia/ Estado",
 	"011precioMax" : "Monto hasta",
 	"011moneda" : "Moneda",
-	"011fechaDesde" : "Fecha desde",
-	"011fechaHasta" : "Fecha hasta",
+	"011fechasViaje" : "Fechas viaje",
 	"011duraciondesde" : "Duración desde",
 	"011duracionhasta" : "Duración hasta",
 	"011tipoViajes" : "Tipo de viajes",
@@ -35,8 +39,32 @@
 	"011valoracionMedia" : "Valoración media",
 	"011opiniones" : "opiniones",
 	"011publicidad" : "Publicidad",
-	"011fechasViaje" : "Fechas viaje",
+	"011fechasViaje" : "Fechas del viaje",
 	"011duracionEnDias" : "Duración en días",
+        "011volverAlListado" : "Volver al listado",
+        "011quieresValorarEsteViaje" : "¿Quieres valorar este viaje?",
+        "011quieresResponder" : "¿Quieres responder?",
+        "011si" : "Si",
+        "011porFavorExplicaValoracion" : "Por favor, explícanos tu valoración",
+        "011apreciacionGeneral" : "Apreciación general:",
+        "011meGusto" : "Me gustó:",
+        "011noMeGusto" : "No me gustó:",
+        "011disfruteCoste" : "Valoración disfrute/ coste:",
+        "011valoracion" : "Valoración",
+        "011respuesta" : "Respuesta",
+        "011desde" : "Desde",
+        "011hasta" : "Hasta",
+        "011gastosEn" : "Gastos en",
+        "011costeTotal" : "Coste total del viaje",
+        "011puntoAgenda" : "Punto de agenda",
+        "011fecha" : "Fecha",
+        "011monto" : "Monto",
+        "011alojamiento" : "Alojamiento",
+        "011tipoalojamiento" : "Tipo de alojamiento",
+        "011duracion" : "Duración",
+        "011noches" : "noches",
+        "012esteViajeYaLoValoraste" : "Este viaje ya está valorado por ti",
+        "013guardar" : "Guardar",
 	"021TravelNetworkingTip" : "Tu próximo viaje comienza aquí...",
 	"021contactos" : "Contactos",
 	"021politicaPrivacidad" : "Política de privacidad",
@@ -68,5 +96,18 @@
 	"031de" : "de",
 	"031viajes" : "viajes",
 	"031lugar" : "Lugar",
-	"031costeViaje" : "Coste del viaje"
+	"031costeViaje" : "Coste del viaje",
+        "032resumen" : "Resumen",
+        "032diario" : "Diario",
+        "032itinerario" : "Itinerario",
+        "032calendario" : "Calendario",
+        "032lugares" : "Lugares",
+        "032opiniones" : "Opiniones",
+        "033totalOpiniones" : "Total xx opiniones",
+        "033invitarAmigosValorarViaje" : "Invitar amigos a valorar este viaje",
+
 	}
+
+	
+
+	
