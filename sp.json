@@ -10,8 +10,11 @@
 032 Viajes detalle
 033 Viajes detalle opiniones 
 034 Viajes itinerario
+040 Tus viajes
+041 Tus viajes resumen
+042 Tus viajes añadir viaje paso 1
 */
-	{
+{
 	"011indiferente" : "Indiferente",
 	"011filtrosPopulares" : "Filtros populares",
 	"011otrosFiltros" : "Otros filtros",
@@ -30,6 +33,9 @@
 	"011conOpiniones" : "Con opiniones",
 	"011conNinos" : "Con niños",
 	"011conBebes" : "Con bebés",
+       "011nombreViaje" : "Nombre del viaje",
+       "011nombreAutorViaje" : "Nombre del autor de viaje",
+       "011empresaOrganizadora" : "Empresa organizadora",
 	"011días" : "días",
 	"011kms" : "kms",
 	"011adutos" : "adultos",
@@ -62,8 +68,58 @@
         "011tipoalojamiento" : "Tipo de alojamiento",
         "011duracion" : "Duración",
         "011noches" : "noches",
-        "012esteViajeYaLoValoraste" : "Este viaje ya está valorado por ti",
-        "013guardar" : "Guardar",
+        "011general" : "General",
+        "011ruta" : "Ruta",
+        "011detallesItineraro" : "Detalles del itinerario",
+        "011lugaresVisitados" : "Lugares visitados",
+"011camposObligatorios" : "Los campos marcados con * son obligatorios",
+"011maximoCaracteres" : "Máximo caracteres",
+"011adultos" : "Adultos",
+"011ninosAnos" : "Niños (2-6 años)",
+"011bebes" : "Bebés (hasta 2años)",
+"011descripcionViaje" : "Descripción general del viaje",
+"011agregaPuntosParada" : "Uno a uno agrega los puntos de parada",
+"011comienzoRuta" : "Comienzo de la ruta",
+"011siguienteParada" : "Siguiente Parada",
+"011paradaAnterior" : "Parada anterior",
+"011descripcionViaje" : "Descripción general del viaje",
+"011finalRuta" : "Final de la ruta",
+"011escribaNombreDireccion" : "Escriba nombre y/o dirección del lugar *",
+"011seleccionaLugarBuscado" : "Selecciona el lugar buscado en la lista de abajo",
+"011seleccionaLugarBuscadoTip" : "Si no lo encuentras en esta lista se debe detallar más su descripción en el recuadro de arriba o búscalo directamente por el mapa",
+"011rutaResultante" : "Ruta resultante",
+"011diaViaje" : "Día de viaje",
+"011fechaLlegada" : "Fecha de llegada",
+"011fechaSalida" : "Fecha de salida",
+"011duracion" : "Duración",
+"011costoTotlViaje" : "Costo total del viaje",
+"011conceptoMaxCaracteres" : "Concepto, máximo 25 caracteres",
+"011descripcion" : "Descripción",
+"011fotos" : "Fotos",
+"011seleccionaLugares" : "Uno a uno selecciona los lugares de interés visitados en este punto de parada",
+"011lugaresYaRegistrados" : "Lugares que ya están registrados en Travelisk.com",
+"011 lugaresYaRegistradosTip" : "En la lista de abajo puedes ver los lugares ubicados a menos de 300 km de este punto de la ruta que ya están registrados en Travelisk.com",
+"011verCompletar" : "Ver/ Completar",
+"011siConsiguesLugar" : "Si consigues en la lista el lugar que te interesa selecciónalo y pulsa el botón “Agregar el lugar seleccionado. En el caso contrario, pulsa el botón “Nuevo” y completa los datos requeridos.",
+"011fechaVisita" : "Fecha visita",
+"011foto" : "Foto",
+"011siEstaSelecciona" : "Si está en la lista de abajo selecciónalo",
+"012esteViajeYaLoValoraste" : "Este viaje ya está valorado por ti",
+"013aplicarFiltros" : "Aplicar filtros",
+"013desmarcarFiltros" : "Desmarcar filtros",
+"013guardar" : "Guardar",
+"013cancelar" : "Cancelar",
+"013siguiente" : "Siguiente",
+"013anterior" : "Anterior",
+"013salir" : "Salir",
+"013anadirViaje" : "Añadir viaje",
+"013modificarViaje" : "Modificar viaje",
+"013eliminariaje" : "Eliminar viaje",
+"013invitarAmigosValorarViaje" : "Invitar amigos a valorar este viaje",
+"013agregarLugarSeleccionado" : "Agregar lugar seleccionado",
+"013nuevo" : "Nuevo",
+"013noEsta" : "No está >>",
+"013noEstaTip" : "No está >>",
 	"021TravelNetworkingTip" : "Tu próximo viaje comienza aquí...",
 	"021contactos" : "Contactos",
 	"021politicaPrivacidad" : "Política de privacidad",
@@ -103,10 +159,10 @@
         "032lugares" : "Lugares",
         "032opiniones" : "Opiniones",
         "033totalOpiniones" : "Total opiniones",
-        "033invitarAmigosValorarViaje" : "Invitar amigos a valorar este viaje",
-
+"041postularViajeConcurso" : "Postular viaje al concurso",
+"042viajaron" : "Viajaron",
+"042organizadoProfesionales" : "Organizado por profesionales"
 	}
 
-	
 
 	
