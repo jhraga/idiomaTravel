@@ -40,6 +40,8 @@
        "011nombreViaje" : "Nombre del viaje",
        "011nombreAutorViaje" : "Nombre del autor de viaje",
        "011empresaOrganizadora" : "Empresa organizadora",
+"011selecciona" : "Actualización, seleccionar desde un dropdown",
+	"011selecciona" : "Selecciona...",
 "011días" : "//Resumen viajes",
         "011días" : "días",
 	"011kms" : "km",
