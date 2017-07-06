@@ -120,6 +120,7 @@
         "011completaDatosRegistrarLugar" : "Completa los datos para registrar el lugar seleccionado:",
         "011naturalezaLugar" : "Naturaleza del lugar*",
         "012esteViajeYaLoValoraste" : "Este viaje ya está valorado por ti",
+	"012campoRequerido" : "Campo requerido",
         "013aplicarFiltros" : "Aplicar filtros",
         "013desmarcarFiltros" : "Desmarcar filtros",
         "013guardar" : "Guardar",
