@@ -65,7 +65,7 @@
 "011lugaresVisitados" : "Интересные места",
 "011camposObligatorios" : "//Mi página, agregar y modificar",
 "011camposObligatorios" : "Поля, помеченные * обязательны",
-"011maximoCaracteres" : "Максимально знаков",
+"011maximoCaracteres" : "Максимально {{}} знаков",
 "011escribaNombreDireccion" : "Введите название/ адрес места*",
 "011fotos" : "Фотографии",
 "011foto" : "Фотография",
