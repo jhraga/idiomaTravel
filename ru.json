@@ -103,6 +103,7 @@
 "011completaDatosRegistrarLugar" : "Введите данные для регистрации выбранного места:",
 "011naturalezaLugar" : "Сущность места*",
 "012esteViajeYaLoValoraste" : "Вы уже оценили эту поездку ",
+"012campoRequerido" : "Обязательное данное",
 "013aplicarFiltros" : "Искать",
 "013desmarcarFiltros" : "Убрать фильтры",
 "013guardar" : "Сохранить",
