@@ -81,7 +81,7 @@
         "011lugaresVisitados" : "Lugares visitados",
 "011camposObligatorios" : "//Mi página, agregar y modificar",
         "011camposObligatorios" : "Los campos marcados con * son obligatorios",
-        "011maximoCaracteres" : "Máximo {{}} caracteres",
+        "011maximoCaracteres" : "Máximo {{maxcaracter}} caracteres",
 "011escribaNombreDireccion" : "Escriba nombre y/o dirección del lugar *",
         "011fotos" : "Fotos",
         "011foto" : "Foto",
@@ -123,7 +123,10 @@
 	"012campoRequerido" : "Campo requerido",
 	"012agregaCamposRequeridos" : "Para pasar a la siguiente pantalla se debe ingresar valores en todos los campos requeridos, que están marcados con *",
         "012limiteViajes" : "Ya tienes registrada la cantidad máxima de viajes. Antes de añadir otro viaje debes eliminar alguno de ellos. También puedes suscribirte a uno de nuestros planes especiales indicados en la sección Publicidad",
-        "012noSeGuardoCambio" : "Interferencia al actualizar la base de datos",
+        "012reviseCamposMarcados" : "Revise los campos marcados con *",
+        "012campoDemaciadoLargo" : "Campo demasiado largo",
+        "012noEstáEnLista" : "No está en la lista",
+	"012noSeGuardoCambio" : "Interferencia al actualizar la base de datos",
         "013aplicarFiltros" : "Aplicar filtros",
         "013desmarcarFiltros" : "Desmarcar filtros",
         "013guardar" : "Guardar",
@@ -140,6 +143,7 @@
         "013noEsta" : "No está >>",
         "013noEstaTip" : "Si este lugar no aparece en la lista indica su ubicación más precisa y búscalo de nuevo. También puedes buscarlo directamente por el mapa. Repítalo hasta que el lugar aparezca en la lista y selecciónalo. Atención: el lugar buscado debe estar a menos de 300 km del punto de ruta seleccionado",
         "013registrarLugar" : "Registrar el lugar seleccionado",
+	"013agregarItinerario" : "Agregar al itinerario",
 	"021TravelNetworkingTip" : "Tu próximo viaje comienza aquí...",
 	"021contactos" : "Contactos",
 	"021politicaPrivacidad" : "Política de privacidad",
@@ -181,7 +185,7 @@
         "033totalOpiniones" : "Total opiniones",
 "041postularViajeConcurso" : "Postular viaje al concurso",
 "042viajaron" : "Viajaron",
-"042organizadoProfesionales" : "Organizado por profesionales"
+"042organizadoProfesionales" : "¿Organizado por profesionales de turismo?"
 	}
 
         
