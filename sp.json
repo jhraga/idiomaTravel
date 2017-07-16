@@ -20,6 +20,7 @@
         "011volverAlListado" : "Volver al listado",
 "011indiferente" : "//Filtros",
         "011indiferente" : "Indiferente",
+	"011mascaraFecha" : "dd/mm/aaaa",
 	"011filtrosPopulares" : "Filtros populares",
 	"011otrosFiltros" : "Otros filtros",
 	"011pais": "País",
