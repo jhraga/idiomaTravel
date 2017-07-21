@@ -67,7 +67,7 @@
 "011camposObligatorios" : "//Mi página, agregar y modificar",
 "011camposObligatorios" : "Поля, помеченные * обязательны",
 "011maximoCaracteres" : "Максимально {{maxcaracter}} знаков",
-"011escribaNombreDireccion" : "Введите название/ адрес места*",
+"011escribaNombreDireccion" : "Название/ адрес места*",
 "011fotos" : "Фотографии",
 "011foto" : "Фотография",
 "011descripcion" : "Описапие",
