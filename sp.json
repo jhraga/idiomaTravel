@@ -83,7 +83,7 @@
 "011camposObligatorios" : "//Mi página, agregar y modificar",
         "011camposObligatorios" : "Los campos marcados con * son obligatorios",
         "011maximoCaracteres" : "Máximo {{maxcaracter}} caracteres",
-"011escribaNombreDireccion" : "Escriba nombre y/o dirección del lugar *",
+"011escribaNombreDireccion" : "Nombre y/o dirección del lugar *",
         "011fotos" : "Fotos",
         "011foto" : "Foto",
         "011descripcion" : "Descripción",
