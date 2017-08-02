@@ -176,4 +176,10 @@
 "041postularViajeConcurso" : "Представить на конкурс",
 "042viajaron" : "Ездили",
 "042organizadoProfesionales" : "Организованно профессионалами туризма?",
+"050email" : "Ваш email",
+"050nuevoUsuario" : "Ещё не зарегистрированны у нас?",
+"050contraseña" : "Пароль",
+"050olvidoContraseña" : "Забыли свой пароль?",
+"050recordar" : "Запомнить мои данные",
+"050entrar" : "Войти",
 }
