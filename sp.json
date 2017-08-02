@@ -13,6 +13,7 @@
 040 Tus viajes
 041 Tus viajes resumen
 042 Tus viajes añadir viaje
+050 Datos usuario
 */
 {
 	"011publicidad" : "Publicidad",
@@ -193,7 +194,13 @@
         "033totalOpiniones" : "Total opiniones",
 "041postularViajeConcurso" : "Postular viaje al concurso",
 "042viajaron" : "Viajaron",
-"042organizadoProfesionales" : "¿Organizado por profesionales de turismo?"
+"042organizadoProfesionales" : "¿Organizado por profesionales de turismo?",
+"050email" : "Tu email",
+"050nuevoUsuario" : "¿No tienes cuenta con nosotros?",
+"050contraseña" : "Contraseña",
+"050olvidoContraseña" : "¿Olvidaste tu contraseña?",
+"050recordar" : "Recuérdame",
+"050entrr" : "Entrar",
 	}
 
         
