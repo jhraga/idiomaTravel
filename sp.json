@@ -137,6 +137,7 @@
 	"012confirmaCancelarCambios" : "¿Estas seguro de cancelar todos los cambios realizados?",
 	"012confirmaGuardarSiguiente" : "Para seguir procedemos a guardar los datos introducidos",
 	"012confirmaEliminarViaje" : "¿Estas seguro de eliminar este viaje?",
+	"012eliminacionExitosa" : "Eliminación realizada correctamente",
 	"013si" : "Si",
 	"013no" : "No",
 	"013aplicarFiltros" : "Aplicar filtros",
