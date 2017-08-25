@@ -119,6 +119,7 @@
 "012confirmaCancelarCambios" : "Вы уверены в отмене всех изменений?",
 "012confirmaGuardarSiguiente" : "Прежде, сохраним введённые здесь данные",
 "012confirmaEliminarViaje" : "Вы уверены, что хотите удалить это путешествие?",
+"012eliminacionExitosa" : "Удаление произведено правильно",
 "013si" : "Да",
 "013no" : "Нет",
 "013aplicarFiltros" : "Искать",
