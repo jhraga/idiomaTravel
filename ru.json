@@ -121,6 +121,7 @@
 "012confirmaEliminarViaje" : "Вы уверены, что хотите удалить это путешествие?",
 "012eliminacionExitosa" : "Удаление произведено правильно",
 "012actualizacionExitosa" : "Данные сохранены",
+"012confirmaEliminar" : "Вы уверены, что хотите это удалить?",
 "013si" : "Да",
 "013no" : "Нет",
 "013aplicarFiltros" : "Искать",
