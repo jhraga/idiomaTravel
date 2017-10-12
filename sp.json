@@ -139,7 +139,7 @@
 	"012confirmaEliminarViaje" : "¿Estas seguro de eliminar este viaje?",
 	"012eliminacionExitosa" : "Eliminación realizada correctamente",
 	"012actualizacionExitosa" : "Los datos se guardaron correctamente",
-	"012confirmaEliminar" : "¿Estas seguro en realizar con esta eliminación?";
+	"012confirmaEliminar" : "¿Estas seguro en realizar con esta eliminación?",
 	"013si" : "Si",
 	"013no" : "No",
 	"013aplicarFiltros" : "Aplicar filtros",
